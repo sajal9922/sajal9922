@@ -7,7 +7,7 @@
 I'm a **Full Stack Developer** passionate about building dynamic and interactive web applications. I love solving problems, learning new technologies, and creating meaningful digital experiences.
 .
 - 🌍 Based in Turku.
-- 💻 Currently working with React,Tailwind CSS, Node.js, MongoDB, PostgreSQL
+- 💻 Currently working with **React,Tailwind CSS, Node.js, MongoDB, PostgreSQL**
 - 📚 Always learning: TypeScript, Next.js
 
 
@@ -33,7 +33,7 @@ I'm a **Full Stack Developer** passionate about building dynamic and interactive
 ### Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="margin-right: 10px;"/>
+<img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub" width="20" height="20" style="margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="20" height="20" style="margin-right: 10px;"/>
 </p>
 
