@@ -1,6 +1,6 @@
-# Hi there, I'm Shamsul Alam! 👋
+# Hi there, I'm [Your Name]! 👋
 
-![Banner]([https://via.placeholder.com/1000x200?text=Welcome+to+my+GitHub+Profile](https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![Banner](https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## 🚀 About Me
 
@@ -35,9 +35,9 @@ I'm a **Full Stack Developer** passionate about building dynamic and interactive
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajal9922&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajal9922&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
