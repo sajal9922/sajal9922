@@ -1,15 +1,15 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Banner](https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 
 ## 🚀 About Me
 
 I'm a **Full Stack Developer** passionate about building dynamic and interactive web applications. I love solving problems, learning new technologies, and creating meaningful digital experiences.
 
-- 🌍 Based in [Your Location]
-- 💻 Currently working with **[Your Tech Stack, e.g., React, Node.js, MongoDB, etc.]**
-- 📚 Always learning: [Your Current Focus, e.g., TypeScript, GraphQL, etc.]
-- 🎨 Hobbyist: [Optional hobbies like "Photography" or "Open-source contributor"]
+- 🌍 Based in Turku.
+- 💻 Currently working with ** React,Tailwind CSS, Node.js, MongoDB, PostgreSQL**
+- 📚 Always learning: TypeScript, Next.js
+
 
 ---
 
@@ -41,17 +41,7 @@ I'm a **Full Stack Developer** passionate about building dynamic and interactive
 
 ---
 
-## 🌟 Featured Projects
 
-### [Project 1: Awesome App](https://github.com/yourusername/project1)
-A brief description of the project.
-- **Tech:** React, Node.js, MongoDB
-
-### [Project 2: Portfolio Website](https://github.com/yourusername/portfolio)
-A brief description of the project.
-- **Tech:** HTML, CSS, JavaScript
-
----
 
 ## 📫 Connect with Me
 
@@ -63,4 +53,4 @@ A brief description of the project.
 
 _⭐️ Feel free to check out my repositories and leave a star if you like my work!_
 
-![Footer](https://via.placeholder.com/1000x50?text=Happy+Coding!)
+
