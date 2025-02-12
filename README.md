@@ -17,17 +17,21 @@ I'm a **Full Stack Developer** passionate about building dynamic and interactive
 
 ### Frontend
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" style="margin-right: 15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20" style="margin-right: 15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" style="margin-right: 15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20" style="margin-right: 15px;"/>
+<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="Typescript" width="22" height="22" style="margin-right: 15px;"/>
+<img src="https://img.icons8.com/?size=100&id=3VGtaw5gCc8T&format=png&color=000000" alt="redux" width="22" height="22" style="margin-right: 15px;"/>
+<img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="redux" width="22" height="22" style="margin-right: 15px;"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" style="margin-right: 10px;"/>
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" width="20" height="20" style="margin-right: 10px;"/>
 <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="Express" width="20" height="20" style="margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20" style="margin-right: 10px;"/>
+<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="Postgresql" width="20" height="20" style="margin-right: 10px;"/>
 </p>
 
 ### Tools
