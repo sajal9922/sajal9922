@@ -24,6 +24,7 @@ I'm a **Full Stack Developer** passionate about building dynamic and interactive
 <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="Typescript" width="22" height="22" style="margin-right: 15px;"/>
 <img src="https://img.icons8.com/?size=100&id=3VGtaw5gCc8T&format=png&color=000000" alt="redux" width="22" height="22" style="margin-right: 15px;"/>
 <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="redux" width="22" height="22" style="margin-right: 15px;"/>
+<img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="Tailwindcss" width="22" height="22" style="margin-right: 15px;"/>
 </p>
 
 ### Backend
